@@ -1,0 +1,12 @@
+{{!< default}}
+
+{{> header}}
+
+<main>
+
+    {{#foreach posts}}
+        <h1><a href="{{url}}">{{title}}></a></h1>
+    {{/foreach}}
+</main>
+
+{{pagination}}

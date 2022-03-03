@@ -1,0 +1,15 @@
+{
+    "name": "pine",
+    "description": "A theme by Oren Cohen",
+    "version": "0.0.1",
+    "engines": {
+        "ghost": ">=4.0.0"
+    },
+    "author": {
+        "name": "Oren Cohen",
+        "email": "oren@orencodes.io"
+    },
+    "config": {
+        "posts_per_page": 3
+    } 
+}
