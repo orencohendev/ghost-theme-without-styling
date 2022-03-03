@@ -13,3 +13,6 @@ The partials folder in this repo includes a header.hbs file that includes the he
 There's still a lot to learn about Ghost themes and also CSS. But I'll share artifacts of my learning here as I go :)
 
 Have any questions? Let me know by either tweeting at me or commenting!
+
+Here's an example screenshot from how it looks with Ghost's sample posts:
+<img width="1037" alt="Screen Shot 2022-03-03 at 21 06 19" src="https://user-images.githubusercontent.com/62210374/156649663-ea435c35-ca14-4fc9-be6c-71035106941b.png">
